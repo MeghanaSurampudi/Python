@@ -1,0 +1,17 @@
+a={'rahul','raj','sonam','rani'}
+b={'sumit''rahul','rani','python'}
+s=a.intersection(b)
+print("intersection :",s)
+print()
+#union() method
+um=a.union(b)
+print("union:",um)
+print()
+#difference method
+dm=a.difference(b)
+print("difference:")
+print()
+#subset()method
+isub=a.issubset(b)
+print("issubset :",isub)
+print()

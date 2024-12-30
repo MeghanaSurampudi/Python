@@ -1,0 +1,28 @@
+cartoons=['tom and jerry','rishna&balram','chotabheem','doraemon','shinchan','ben-10']
+print(cartoons)
+print("after appending an element")
+cartoons.append('oogy and cockroaches')
+print(cartoons)
+print("after inserting the elements :")
+cartoons.insert(2,'rollno-21')
+print(cartoons)
+print("after poppingthe element:")
+cartoons.pop(4)
+print(cartoons)
+print("after removing the elements :")
+cartoons.remove('chotabheem')
+print(cartoons)
+#print(cartoons.index 'chotabheem')
+
+
+
+
+
+
+
+
+
+
+
+
+
